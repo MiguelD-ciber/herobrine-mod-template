@@ -1,0 +1,16 @@
+[
+{
+  "modid": "herobrinemod",
+  "name": "The Herobrine Mod",
+  "description": "Well not much to say, check out my Android Herobrine Games!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "https://play.google.com/store/apps/details?id=com.Burnner.FlappyHerobrine",
+  "updateUrl": "https://play.google.com/store/apps/details?id=com.Burnner.FlappyHerobrine",
+  "authors": ["Burnner"],
+  "credits": "Burnner",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
